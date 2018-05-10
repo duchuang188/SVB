@@ -16,6 +16,6 @@ namespace SportsVenueBookingCommon
         /// <summary>
         /// 用户枚举
         /// </summary>
-        public static enum userType { admin,student,teacher};
+        public static enum userType { admin,student,teacher,outside};
     }
 }
